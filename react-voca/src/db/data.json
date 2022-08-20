@@ -11,7 +11,44 @@
     {
       "id": 3,
       "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
     }
   ],
-  "words": []
+  "words": [
+    {
+      "id": 1,
+      "day": 1,
+      "eng": "book",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "kick",
+      "kor": "3",
+      "isDone": false,
+      "id": 2
+    },
+    {
+      "day": "1",
+      "eng": "hi",
+      "kor": "1",
+      "isDone": false,
+      "id": 3
+    },
+    {
+      "day": "1",
+      "eng": "ㅁ",
+      "kor": "ㅁㅇㅁㅇㅁㅇㅁㅇ",
+      "isDone": false,
+      "id": 4
+    }
+  ]
 }
